@@ -163,8 +163,6 @@ This flag is only allowed when the <b>StatusCode</b> member of <i>pHttpResponse<
 </table>
  
 
-<div class="alert"><b>Caution</b>  Combining both flags in a single call to the <a href="/windows/desktop/api/http/nf-http-httpsendhttpresponse">HttpSendHttpResponse</a> function produces undefined results.</div>
-<div> </div>
 
 ### -param EntityChunkCount [in]
 
